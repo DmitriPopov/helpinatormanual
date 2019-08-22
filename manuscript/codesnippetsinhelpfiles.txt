@@ -3,11 +3,11 @@
 This is how a code snippet looks in CHM help file and WebHelp:
 
 
-![Code Snippet in a CHM](snipchm.png)
+![Code Snippet in a CHM](images/snipchm.png)
 
 
 And in PDF/RTF/Printed Manuals:
 
 
-![Code Snippet in a PDF](snippdf.png)
+![Code Snippet in a PDF](images/snippdf.png)
 

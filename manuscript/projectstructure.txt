@@ -3,7 +3,7 @@
 The picture below shows Helpinator project structure.
 
 
-![Project Structure](projectstruct.png)
+![Project Structure](images/projectstruct.png)
 
 
 You are not forced to create all items shown above. In fact, you only need some topics and templates to create documentation.

@@ -16,7 +16,7 @@ To compile MOBI ebook:
 2. Run Helpinator, select Main Menu->Tools->Options, "Compilers" tab and enter path to KindleGen utility.
 
 
-![KindleGen](enoptionskindlecompiler.png)
+![KindleGen](images/enoptionskindlecompiler.png)
 
 
 
@@ -27,4 +27,4 @@ You might also need a MOBI viewer (Mobipocket Reader for example or  [Kindle Pre
 Note that you can add a cover page image to your ebook (actually Amazon suggests you have one). Just put a file named syscoverpage.jpg into the project's image library and Helpinator will use it as a cover page for your ebook.
 
 
-![Kindle Book Preview](en-kindle.png)
+![Kindle Book Preview](images/en-kindle.png)

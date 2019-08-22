@@ -5,7 +5,7 @@ Now let's add some callouts to the screenshots. Select an image to work on take 
 Select shape style (we use "Red and Yellow" here). Click on rectangle shape on the toolbar and draw it where you want callout to appear. Now select "Arrow" shape and connect rectangle with a target element, in our case the toolbar buttons. Double click the rectangle and enter text into "Caption" field. 
 
 
-![Activate editor](tutorialimagesactivateeditor.PNG)
+![Activate editor](images/tutorialimagesactivateeditor.PNG)
 
 
-![Add caption](callout-add-caption.png)
+![Add caption](images/callout-add-caption.png)

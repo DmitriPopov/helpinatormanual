@@ -7,7 +7,7 @@ The picture below shows how to manage text snippets.
 
 
 
-![Manage Text Snippets](managetextsnip.png)
+![Manage Text Snippets](images/managetextsnip.png)
 
 
 There are two types of text snippets:
@@ -20,6 +20,6 @@ There are two types of text snippets:
 Here's an example of the second type text snippet:
 
 
-![Edit text snippet](edittextsnip.png)
+![Edit text snippet](images/edittextsnip.png)
 
 

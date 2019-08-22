@@ -6,11 +6,11 @@ There's "Insert step-by-step guide" button on the topic editor toolbar.
 Click on "Insert step-by-step guide" and select it from the drop-down list.
 
 
-![Insert a step-by-step guide](useguide.png)
+![Insert a step-by-step guide](images/useguide.png)
 
 
 
 When you select a guide, guide placeholder appears in the editor area in the position of cursor.
 
 
-![Placeholder for a step-by-step guide](useguide2.png)
+![Placeholder for a step-by-step guide](images/useguide2.png)

@@ -9,4 +9,4 @@ Example can be seen in Helpinator's own WebHelp:
 <http://www.helpinator.com/webhelp>
 
 
-![Adapt WebHelp to your site](webhelp3.png)
+![Adapt WebHelp to your site](images/webhelp3.png)

@@ -6,4 +6,4 @@ If you prefer to use another screenshot capture tool or just Windows **PrntScrn*
 "Paste screenshot..." dialog appears. Select image name, format and category, then click "Paste".
 
 
-![Paste from Clipboard](pastefromclipboard.PNG)
+![Paste from Clipboard](images/pastefromclipboard.PNG)

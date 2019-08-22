@@ -32,7 +32,7 @@ To compile OracleHelp:
 3. Set Helpinator options
 
 
-![enoptionsoraclehelp.png](images/enoptionsoraclehelp.png)
+![](images/enoptionsoraclehelp.png)
 
 
 
@@ -44,10 +44,10 @@ Compiled OracleHelp looks like this.
 Table of contents:
 
 
-![OracleHelp Table Of Contents](oraclehelp-contents.png)
+![OracleHelp Table Of Contents](images/oraclehelp-contents.png)
 
 
 Topic view (undocked)
 
 
-![QtHelp Topic Display](oraclehelp-topic.png)
+![QtHelp Topic Display](images/oraclehelp-topic.png)

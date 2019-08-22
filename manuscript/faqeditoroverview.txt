@@ -3,22 +3,22 @@
 To open up FAQ editor first select the FAQ node in the project tree view. If there is no "FAQ" node check out the FAQs are not filtered out from project view, corresponding button on the leftmost toolbar should be checked.
 
 
-![FAQ filter button](filtertoolbar.png)
+![FAQ filter button](images/filtertoolbar.png)
 
 
-![FAQs node](faqsnode.png)
+![FAQs node](images/faqsnode.png)
 
 
 List of FAQs looks like this:
 
 
-![List of FAQs](faqlist.png)
+![List of FAQs](images/faqlist.png)
 
 
 Double click a FAQ and FAQ editor appears:
 
 
-![FAQ Editor](faqeditor.png)
+![FAQ Editor](images/faqeditor.png)
 
 
-![Edit Questions](faqeditor2.png)
+![Edit Questions](images/faqeditor2.png)

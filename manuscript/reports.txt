@@ -16,8 +16,8 @@ Currently Helpinator has the following predefined reports:
 
 
 
-![Reports](reports.png)
+![Reports](images/reports.png)
 
 
-![Reports - created report](reports1.png)
+![Reports - created report](images/reports1.png)
 

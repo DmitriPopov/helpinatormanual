@@ -4,7 +4,7 @@ Image Library UI has a toolbar with commands and tree list of images, organized 
 
 
 
-![Image Library](images.png)
+![Image Library](images/images.png)
 
 
 
@@ -24,24 +24,24 @@ Toolbar has the following commands:
 Add Image from file opens up separate dialog:
 
 
-![Add image from file](addimagefromfile.png)
+![Add image from file](images/addimagefromfile.png)
 
 
 
 "Resize selected images" command allows you to resize images that have width in pixels more than selected value. This is useful when you have captured a bunch of screenshots that do not fit browser or PDF page width.
 
 
-![Resize Images](resizeimages.png)
+![Resize Images](images/resizeimages.png)
 
 
 
 "New blank image" allows you to create an image with user defined size and filled with selected color. Using it and annotations you can create diagrams like this:
 
 
-![Shapes drawn above a blank image](projectstruct.png)
+![Shapes drawn above a blank image](images/projectstruct.png)
 
 
-![New Blank Image](newblankimage.png)
+![New Blank Image](images/newblankimage.png)
 
 
 

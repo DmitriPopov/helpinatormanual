@@ -27,4 +27,4 @@ Download it and put into Helpinator installation folder.
 To add languages to your project you can either use "Add languages" button in the "New Project" dialog or "+" sign on the main tool bar next to the language drop-down list.
 
 
-![Add Languages](multiplelanguages.PNG)
+![Add Languages](images/multiplelanguages.PNG)

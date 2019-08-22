@@ -8,47 +8,47 @@ Now suppose that during project evolution toolbar changes significantly – upda
 
 In the following example will’ take a look at one simple but very common situation. Suppose you have a set of images in your project, describing different parts of the toolbar, but all of them contain application name and version in the window title like this:
 
-![{264733B0-0907-4710-BF67-CFFF8D2A5163}.png](images/%7B264733B0-0907-4710-BF67-CFFF8D2A5163%7D.png)
+![](images/_264733B0-0907-4710-BF67-CFFF8D2A5163_.png)
 
 One image has callouts for language bar:
 
-![{C07702C6-836E-464D-BDB7-3F2906134B7C}.png](images/%7BC07702C6-836E-464D-BDB7-3F2906134B7C%7D.png)
+![](images/_C07702C6-836E-464D-BDB7-3F2906134B7C_.png)
 
 Another for compile buttons, and so on…
 
-![{3737ADA8-A871-4A9C-A9D5-BA21C0DDFB78}.png](images/%7B3737ADA8-A871-4A9C-A9D5-BA21C0DDFB78%7D.png)
+![](images/_3737ADA8-A871-4A9C-A9D5-BA21C0DDFB78_.png)
 
 We’ll make the first one “donor” image and two other images will be cloned.
 
-![New cloned image](newclonedimage.png)
+![New cloned image](images/newclonedimage.png)
 
 Now suppose application version changes to 3.5. You need to update all those images. Luckily you have only one donor image and two clones, so you only need to update one image.
 
 Select Tools->Replace Image when donor image is open in the editor.
 
-![Replace bitmap](replacebitmap.png)
+![Replace bitmap](images/replacebitmap.png)
 
 Now all cloned images are updated:
 
-![{B9F6839E-6B6B-4073-B60A-3981907DF019}.png](images/%7BB9F6839E-6B6B-4073-B60A-3981907DF019%7D.png)
+![](images/_B9F6839E-6B6B-4073-B60A-3981907DF019_.png)
 
-![{24E4B81A-84E6-45BE-9470-B9064C2951C1}.png](images/%7B24E4B81A-84E6-45BE-9470-B9064C2951C1%7D.png)
+![](images/_24E4B81A-84E6-45BE-9470-B9064C2951C1_.png)
 
 
 There's also a handy feature that is called "Active region". It allows to use only a square portion of the donor image. Define active region and set "Effect for..." to "Crop".
 
-![Change active region](imageactiveregion.png)
+![Change active region](images/imageactiveregion.png)
 
 **Example.**
 
 This image is the large donor image. But we do not need it as a whole, more than that, it will be discussed in different topics.
 
-![Donor](cloneexampledonor.png)
+![Donor](images/cloneexampledonor.png)
 
 So we can create two clones and define different active regions for them.
 
-![Clone 1](cloneexampleclone1.png)
+![Clone 1](images/cloneexampleclone1.png)
 
 
-![Clone 2](cloneexampleclone2.png)
+![Clone 2](images/cloneexampleclone2.png)
 

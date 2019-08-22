@@ -3,7 +3,7 @@
 Project options define global project-wide settings.
 
 
-![Project Options](projectoptions.png)
+![Project Options](images/projectoptions.png)
 
 
 
@@ -20,10 +20,10 @@ Project options define global project-wide settings.
 Clicking on "PDF/Print settings" opens up "PDF settings" dialog. First page "General" allows you to define special fields of PDF document.
 
 
-![General Project Options](projectoptions1.png)
+![General Project Options](images/projectoptions1.png)
 
 
 The second acts both for PDF and for printed manuals. Here you can define margins, orientation and paper size.
 
 
-![PDF Settings](projectoptions2.png)
+![PDF Settings](images/projectoptions2.png)

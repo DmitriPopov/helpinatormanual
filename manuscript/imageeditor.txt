@@ -6,14 +6,14 @@ Image editor is fairly simple to use. The figure below explains pretty much ever
 
 
 
-![Image editor explained](editimage.png)
+![Image editor explained](images/editimage.png)
 
 
 The "Tools" menu of the image editor has some handy commands you can use:
 
 
 
-![Image editor tools](editimage-shape.png)
+![Image editor tools](images/editimage-shape.png)
 
 
 

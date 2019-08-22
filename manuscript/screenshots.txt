@@ -11,7 +11,7 @@ Below is the settings tab set.
 "General" tab allows you to select whether you want to capture new image and put it into specific category or recapture existing image.
 
 
-![Screenshot Tool](screenshots.png)
+![Screenshot Tool](images/screenshots.png)
 
 
 
@@ -26,7 +26,7 @@ You can:
 4. Append to Guide - newly captured images will be added as new steps to existing guide.
 
 
-![Screenshot - create topics and guides](screenshots1.png)
+![Screenshot - create topics and guides](images/screenshots1.png)
 
 
 
@@ -43,7 +43,7 @@ You can:
 
 
 
-![Screenshots - capture region](screenshots2.png)
+![Screenshots - capture region](images/screenshots2.png)
 
 
 

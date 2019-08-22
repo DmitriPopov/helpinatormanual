@@ -10,14 +10,14 @@ PDF/RTF/Print templates are generally RTF files with several reserved pages:
 5. Index page template. This page will list keywords and numbers of pages where they appear.
 
 
-![PDF/RTF templates](rtftemplates.png)
+![PDF/RTF templates](images/rtftemplates.png)
 
 
-![Header, Footer and Cover page template](rtftemplates1.png)
+![Header, Footer and Cover page template](images/rtftemplates1.png)
 
 
 
-![Table of Contents](rtftemplates2.png)
+![Table of Contents](images/rtftemplates2.png)
 
 
-![Page Template](rtftemplates3.png)
+![Page Template](images/rtftemplates3.png)

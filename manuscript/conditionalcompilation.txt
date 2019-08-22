@@ -13,7 +13,7 @@ It may be used in both of two ways:
 To skip/include portions of text Helpinator has built-in IF directive which has the following syntax:
 
 
-![Conditional Compilation](eng-cond-text.png)
+![Conditional Compilation](images/eng-cond-text.png)
 
 
 In the first case IF clause allows to skip the text inside it when "EDITION" variable has "PRO" value.
@@ -25,7 +25,7 @@ In the second case the text will be skipped without any conditions. This makes C
 To skip a topic from output completely (e.g. even from TOC) there's "Skip topic" tab in the topic editor
 
 
-![Skip the topic](eng-ed-skip.png)
+![Skip the topic](images/eng-ed-skip.png)
 
 
 In the case above Helpinator will skip the topic entirely when EDITION is NOT equal to 'PRO'.

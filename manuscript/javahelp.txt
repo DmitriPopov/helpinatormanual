@@ -31,7 +31,7 @@ To compile JavaHelp:
 3. Run Helpinator, select Main Menu->Tools->Options and enter both paths to JDK and JavaHelp "bin" folders.
 
 
-![JavaHelp Compiler Options](enoptionsjavahelpcompiler.png)
+![JavaHelp Compiler Options](images/enoptionsjavahelpcompiler.png)
 
 
 
@@ -41,12 +41,12 @@ Note that JavaHelp uses obsolete HTML viewer not capable of handling modern HTML
 Compiled JavaHelp file looks like this:
 
 
-![JavaHelp - Contents](en-javahelp.png)
+![JavaHelp - Contents](images/en-javahelp.png)
 
 
-![JavaHelp - Index](en-javahelp1.png)
+![JavaHelp - Index](images/en-javahelp1.png)
 
 
-![JavaHelp - Search](en-javahelp2.png)
+![JavaHelp - Search](images/en-javahelp2.png)
 
 

@@ -13,7 +13,7 @@ To generate LeanPub source project (manuscript) you can do the following:
 Select "Compile LeanPub book" from the "Tools" menu.
 
 
-![Tools - Compile LeanPub](toolscompileleanpub.PNG)
+![Tools - Compile LeanPub](images/toolscompileleanpub.PNG)
 
 
 or create a batch with this command:

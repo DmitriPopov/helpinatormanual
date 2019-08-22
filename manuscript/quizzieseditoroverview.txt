@@ -3,16 +3,16 @@
 To activate Quiz Editor first select "Quizzes"  node in the project tree view. If it is not visible, then click "Quizzes" button on the project tree filter toolbar:
 
 
-![Filter Quizzes in the tree](quizfilter.png)
+![Filter Quizzes in the tree](images/quizfilter.png)
 
 
-![Quizzes node](quizzesnode.png)
+![Quizzes node](images/quizzesnode.png)
 
 
 List of Quizzes looks like this:
 
 
-![Quiz list](quizlist.png)
+![Quiz list](images/quizlist.png)
 
 
 Double click a quiz in the list and the Quiz Editor appears:
@@ -20,10 +20,10 @@ Double click a quiz in the list and the Quiz Editor appears:
 
 
 
-![Quiz Question Editor](quizeditor1.png)
+![Quiz Question Editor](images/quizeditor1.png)
 
 
-![Quiz Answers Editor](quizeditor2.png)
+![Quiz Answers Editor](images/quizeditor2.png)
 
 
 

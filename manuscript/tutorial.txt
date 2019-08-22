@@ -6,7 +6,7 @@ This tutorial will show you how to create a simple help file for your applicatio
 In this tutorial we'll create a help file for another our product called " [MiniKanban](https://www.helpinator.com)": 
 
 
-![MiniKanban tool](tutorialminikanban.png)
+![MiniKanban tool](images/tutorialminikanban.png)
 
 
 

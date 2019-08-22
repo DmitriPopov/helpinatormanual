@@ -11,7 +11,7 @@ Variables play important part in Helpinator project:
 All variables are located on the "Variables" tab of Project Options.
 
 
-![Variables](variables.png)
+![Variables](images/variables.png)
 
 
 

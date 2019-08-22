@@ -3,10 +3,10 @@
 You can add callouts and annotations to the images stored in the image library. Select an image and click "Tools->Activate shape editor".
 
 
-![Activate Shape Editor](editimage-shape.png)
+![Activate Shape Editor](images/editimage-shape.png)
 
 
 Then select color style from "Style" selector and add any shape, arrow or callout you like.
 
 
-![Add callouts](editimage.png)
+![Add callouts](images/editimage.png)

@@ -10,4 +10,4 @@ You can edit links right in the grid and then click "Fix links". For each link y
 3. Skip this item during next check.
 
 
-![Check Links](checklinks.png)
+![Check Links](images/checklinks.png)

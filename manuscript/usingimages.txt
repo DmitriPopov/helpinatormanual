@@ -13,14 +13,14 @@ Step-by-step guides have their own topic, here we'll talk about inserting images
 You are not forced to use Image Library, you can add images into topics as in usual text processor, using the toolbar button shown below.
 
 
-![Insert inline picture](useimage.png)
+![Insert inline picture](images/useimage.png)
 
 
 
 Inserting library images is not very different from it. Click on a toolbar button and select an image from the drop-down list. Note that images are grouped by category.
 
 
-![Insert Screenshot / Figure](insertfigure.png)
+![Insert Screenshot / Figure](images/insertfigure.png)
 
 
 Now when you change an image in the image library it is automatically updated in all topics that reference it.
@@ -34,7 +34,7 @@ There are other options available:
 3. **"Quick search for an image"** - allows you to quickly locate image in the project library by it's name. How it works:
 
 
-![Quick search for an image](quicksearchforimage.PNG)
+![Quick search for an image](images/quicksearchforimage.PNG)
 
 
 Type a part of image name into the edit box at the top of the window and it will filter out images that do not match the criteria. Now you can select one or more images with checkboxes and click "Insert" to place them in the position of caret.

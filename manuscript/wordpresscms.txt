@@ -12,7 +12,7 @@ Example Wordpress site with Helpinator's own documentation:
 To publish your help file to Wordpress you need to set up your account information and select publishing options.
 
 
-![Publish to WordPress](wordpress.png)
+![Publish to WordPress](images/wordpress.png)
 
 
 Helpinator operates "profiles" to manage Wordpress sites. You can have several profiles and publish documentation to several blogs (test site and the main product site, for example). Click "+" to add new profile and select profile name.

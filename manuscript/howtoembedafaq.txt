@@ -3,4 +3,4 @@
 To embed a FAQ into a topic you need to use FAQ pseudo tag. You can enter it manually or place cursor into a desired position and select a FAQ from toolbar drop down list of the topic editor.
 
 
-![How to embed a FAQ](embedFAQ.png)
+![How to embed a FAQ](images/embedFAQ.png)

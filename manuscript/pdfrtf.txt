@@ -5,16 +5,16 @@ Helpinator generates PDF files with cover page, table of contents, glossary and 
 Pages have header and footer with page numbers.
 
 
-![PDF - cover page](pdf.png)
+![PDF - cover page](images/pdf.png)
 
 
-![PDF - Table of Contents](pdf1.png)
+![PDF - Table of Contents](images/pdf1.png)
 
 
-![PDF  - topic](pdf2.png)
+![PDF  - topic](images/pdf2.png)
 
 
-![PDF - index](pdf3.png)
+![PDF - index](images/pdf3.png)
 
 
 

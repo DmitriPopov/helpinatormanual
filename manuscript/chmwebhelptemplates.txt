@@ -36,10 +36,10 @@ HTML templates use several tags, enclosed in {%%}:
 You can also use project variables inside templates.
 
 
-![HTML templates](htmltemplates.png)
+![HTML templates](images/htmltemplates.png)
 
 
-![Inside an HTML template](htmltemplates1.png)
+![Inside an HTML template](images/htmltemplates1.png)
 
 
 **Adapting WebHelp to your website**
@@ -48,4 +48,4 @@ You can also use project variables inside templates.
 You can also adapt WebHelp appearance to the style of your website using WebHelp header and footer. This fields are not required, if empty WebHelp will fill entire browser page. When filled, header and footer will appear in separate frames.
 
 
-![WebHelp Addons](htmltemplates2.png)
+![WebHelp Addons](images/htmltemplates2.png)

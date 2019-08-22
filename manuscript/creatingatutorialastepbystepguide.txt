@@ -12,61 +12,61 @@ We are about to create a step-by-step guide that shows how to add a new task to 
 For this purpose we will add several clones of the image that contains screenshot of "Add a task" dialog. This dialog has a number of edits and switches, so we will have to split the explanation into several steps. However it's impractical to use different images with the same screenshot. And it's hard to maintain. Helpinator allows to create "cloned" images of the same donor, so there's no need to manage more than one copy and we will need to update just one image when the dialog changes. 
 
 
-![Manage images add clone](tutorialimagelibaddclone.PNG)
+![Manage images add clone](images/tutorialimagelibaddclone.PNG)
 
 
 "New cloned image" dialog allows to add several clones of a donor image at once and store them to selected category. 
 
 
-![New cloned images](tutorialnewclonedimages.PNG)
+![New cloned images](images/tutorialnewclonedimages.PNG)
 
 
 Now we can add callouts to the images of our tutorial on every step. 
 
 
-![Add callouts.](tutorialimgaddcallouts.PNG)
+![Add callouts.](images/tutorialimgaddcallouts.PNG)
 
 
 
-![Callouts for attachments.](tutorialimgaddcallouts2.PNG)
+![Callouts for attachments.](images/tutorialimgaddcallouts2.PNG)
 
 
-![Callouts for checklists.](tutorialimgaddcallouts3.PNG)
+![Callouts for checklists.](images/tutorialimgaddcallouts3.PNG)
 
 
 Now we can go and create a tutorial itself. 
 
 
-![Manage guides](tutorialaddguide.PNG)
+![Manage guides](images/tutorialaddguide.PNG)
 
 
 
-![Add guide dialog](tutorialaddguidedialog.PNG)
+![Add guide dialog](images/tutorialaddguidedialog.PNG)
 
 
-![Step images](tutorialaddstepimages.PNG)
+![Step images](images/tutorialaddstepimages.PNG)
 
 
 
 By default tutorial steps have the same names as the images selected. We need to rename them and place in correct order. 
 
 
-![Rename and reorder steps.](tutorialguiderenamesteps.PNG)
+![Rename and reorder steps.](images/tutorialguiderenamesteps.PNG)
 
 
 Now you can write step text into the field below the step image.
 
 
-![Write step text](tutorialguidewritetext.PNG)
+![Write step text](images/tutorialguidewritetext.PNG)
 
 
 After all step texts are ready we can insert a placeholder for our tutorial into a corresponding topic. Topic named "Tutorial" in our case.
 
 
-![Insert guide using a toolbar](tutorialinsertguide.PNG)
+![Insert guide using a toolbar](images/tutorialinsertguide.PNG)
 
 
-![Guide in topic editor](tutorialguideplaceholder.PNG)
+![Guide in topic editor](images/tutorialguideplaceholder.PNG)
 
 
 

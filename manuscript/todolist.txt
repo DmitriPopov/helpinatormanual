@@ -15,14 +15,14 @@ There are two places to work with tasks:
 1. "ToDo" tab at the bottom of the topic editor. This tab allows to add/manage tasks assigned to this topic.
 
 
-![Topic todos](eng-ed-todo.png)
+![Topic todos](images/eng-ed-todo.png)
 
 
 
 2. Global project to-do list with all tasks from all topics and the project itself.
 
 
-![Global Tasks](globaltasks.png)
+![Global Tasks](images/globaltasks.png)
 
 
 To add a task for the project itself, not a topic, click "Add" in this global list.
@@ -32,4 +32,4 @@ To add a task for the project itself, not a topic, click "Add" in this global li
 There's also a way to get printed version of your tasks list. Locate "Tasks by topics" report under "Reports" node and run it.
 
 
-!["Tasks by Topics" report](tasksbytopics.png)
+!["Tasks by Topics" report](images/tasksbytopics.png)
