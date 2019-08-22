@@ -20,19 +20,13 @@ Another for compile buttons, and so on…
 
 We’ll make the first one “donor” image and two other images will be cloned.
 
-![newclonedimage.png](images/newclonedimage.png)
-
-New cloned image
-
+![New cloned image](newclonedimage.png)
 
 Now suppose application version changes to 3.5. You need to update all those images. Luckily you have only one donor image and two clones, so you only need to update one image.
 
 Select Tools->Replace Image when donor image is open in the editor.
 
-![replacebitmap.png](images/replacebitmap.png)
-
-Replace bitmap
-
+![Replace bitmap](replacebitmap.png)
 
 Now all cloned images are updated:
 
@@ -43,30 +37,18 @@ Now all cloned images are updated:
 
 There's also a handy feature that is called "Active region". It allows to use only a square portion of the donor image. Define active region and set "Effect for..." to "Crop".
 
-![imageactiveregion.png](images/imageactiveregion.png)
-
-Change active region
-
+![Change active region](imageactiveregion.png)
 
 **Example.**
 
 This image is the large donor image. But we do not need it as a whole, more than that, it will be discussed in different topics.
 
-![cloneexampledonor.png](images/cloneexampledonor.png)
-
-Donor
-
+![Donor](cloneexampledonor.png)
 
 So we can create two clones and define different active regions for them.
 
-![cloneexampleclone1.png](images/cloneexampleclone1.png)
-
-Clone 1
+![Clone 1](cloneexampleclone1.png)
 
 
-
-![cloneexampleclone2.png](images/cloneexampleclone2.png)
-
-Clone 2
-
+![Clone 2](cloneexampleclone2.png)
 

@@ -4,9 +4,6 @@ You can add named styles for virtually any object in Helpinator. Global named st
 
 
 
-![styles.png](images/styles.png)
-
-Styles
-
+![Styles](styles.png)
 
 

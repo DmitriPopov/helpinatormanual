@@ -3,76 +3,52 @@
 Now let's write some introductory text. 
 
 
-![tutorial-editor-1.png](images/tutorial-editor-1.png)
-
-Topic editor.
-
+![Topic editor.](tutorial-editor-1.png)
 
 
 Suppose our users live in a perfect world of sunshine and rainbows and never knew anything about satan. We need to explain this term. And again Helpinator is here to save you, it has built-in Glossary manager. 
 
 
-![tutorialglossary.PNG](images/tutorialglossary.PNG)
-
-Glossary
-
+![Glossary](tutorialglossary.PNG)
 
 
 In the "Add Glossary Terms" dialog click on "Import k/w", this will import project's keywords into glossary. 
 
 
-![add-glossary-terms-empty.png](images/add-glossary-terms-empty.png)
+![](add-glossary-terms-empty.png)
 
 
 
-![add-glossary-terms.png](images/add-glossary-terms.png)
-
-Add glossary terms.
-
+![Add glossary terms.](add-glossary-terms.png)
 
 
 
 Now you can write definitions for the terms added. 
 
 
-![glossary-write-text.png](images/glossary-write-text.png)
-
-Write glossary term definition.
-
+![Write glossary term definition.](glossary-write-text.png)
 
 
 Let's go back to the topic editor and create a hyperlink for the glossary term. 
 
 
-![tutorialeditorbeforehyperlink.PNG](images/tutorialeditorbeforehyperlink.PNG)
-
-Inerting a hyperlink
-
+![Inerting a hyperlink](tutorialeditorbeforehyperlink.PNG)
 
 
 In the "Insert hyperlink" dialog select the term to link to. 
 
 
-![tutorial-editor-glo-hyperlink.png](images/tutorial-editor-glo-hyperlink.png)
-
-Insert hyperlink.
+![Insert hyperlink.](tutorial-editor-glo-hyperlink.png)
 
 
 
-
-![tutorial-editor-after-hyperlink.png](images/tutorial-editor-after-hyperlink.png)
-
-After hyperlink was inserted
-
+![After hyperlink was inserted](tutorial-editor-after-hyperlink.png)
 
 
 Return to the topic editor. Now let's insert a "Warning" aside using the toolbar button. Later we will see how it will be rendered in the output. 
 
 
-![tutorialinsertaside.PNG](images/tutorialinsertaside.PNG)
-
-Insert aside
-
+![Insert aside](tutorialinsertaside.PNG)
 
 
 

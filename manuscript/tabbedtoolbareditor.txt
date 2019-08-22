@@ -13,28 +13,16 @@ Classic editor toolbar is too cluttered and overloaded so we introduced a little
 **"Tools"** tab contains text processing tools like copy-paste, spellchecker and etc.
 
 
-![eng-ed-write.png](images/eng-ed-write.png)
-
-"Write" Tab
+!["Write" Tab](eng-ed-write.png)
 
 
 
-
-![eng-ed-insert.png](images/eng-ed-insert.png)
-
-"Insert" tab
+!["Insert" tab](eng-ed-insert.png)
 
 
 
-
-![eng-ed-table.png](images/eng-ed-table.png)
-
-"Table" tab
+!["Table" tab](eng-ed-table.png)
 
 
 
-
-![eng-ed-tools.png](images/eng-ed-tools.png)
-
-"Tools" tab
-
+!["Tools" tab](eng-ed-tools.png)

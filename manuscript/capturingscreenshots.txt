@@ -5,22 +5,13 @@ Helpinator allows you to capture screenshots and automatically create topics wit
 First select "Screenshots" node in the project tree view. 
 
 
-![tutorialscreenshot1.PNG](images/tutorialscreenshot1.PNG)
-
-Screenshots - General tab
+![Screenshots - General tab](tutorialscreenshot1.PNG)
 
 
-
-![tutorialscreenshot2.PNG](images/tutorialscreenshot2.PNG)
-
-Screenshots - Create topics and guides.
+![Screenshots - Create topics and guides.](tutorialscreenshot2.PNG)
 
 
-
-![tutorialscreenshot3.PNG](images/tutorialscreenshot3.PNG)
-
-Screenshots - Select what to capture.
-
+![Screenshots - Select what to capture.](tutorialscreenshot3.PNG)
 
 
 
@@ -29,10 +20,7 @@ Make required settings as shown above and click "Start". Now when you press hotk
 Let's check created topics: 
 
 
-![tutorialscreenshotcreatedtopics.PNG](images/tutorialscreenshotcreatedtopics.PNG)
-
-Topics created by screenshot tool
-
+![Topics created by screenshot tool](tutorialscreenshotcreatedtopics.PNG)
 
 
 Newly added topics have the name of the captured window as a title, and a reference to the captured image stored in the image library.
@@ -40,19 +28,13 @@ Newly added topics have the name of the captured window as a title, and a refere
 Now, let's reorder created topics and and move them under "UI" node. Just drag and drop them to the "UI" node, then rearrange using "up" and "down" arrows on the toolbar. 
 
 
-![tutorialscreenshotrearrtopics.PNG](images/tutorialscreenshotrearrtopics.PNG)
-
-Rearrange topics
-
+![Rearrange topics](tutorialscreenshotrearrtopics.PNG)
 
 
 Let's take a look at the library. Captured images are now there under "ui" category. 
 
 
-![tutorialscreenshotimagelib.PNG](images/tutorialscreenshotimagelib.PNG)
-
-Image library
-
+![Image library](tutorialscreenshotimagelib.PNG)
 
 
 

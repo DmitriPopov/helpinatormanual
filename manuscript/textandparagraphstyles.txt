@@ -1,16 +1,10 @@
 ## Text and Paragraph Styles
 
-![textstyle.png](images/textstyle.png)
-
-Text Style
+![Text Style](textstyle.png)
 
 
 
-
-![styles1.png](images/styles1.png)
-
-Paragraph style
-
+![Paragraph style](styles1.png)
 
 
 

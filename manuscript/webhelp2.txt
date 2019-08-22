@@ -24,7 +24,4 @@ Helpinator's online documentation now uses new WebHelp 2:  <http://www.helpinato
 It looks like this:
 
 
-![webhelp2demo.png](images/webhelp2demo.png)
-
-WebHelp2
-
+![WebHelp2](webhelp2demo.png)

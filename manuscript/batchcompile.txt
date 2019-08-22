@@ -6,29 +6,20 @@ Clicking on toolbar icons to get output is time-consuming when you need multiple
 You can save batches to external xml files or into the project itself. In the latter case you can access them with a drop-down on the main tool bar.
 
 
-![batchcompile1.PNG](images/batchcompile1.PNG)
-
-Batch Compile ont the main Toolbar
-
+![Batch Compile ont the main Toolbar](batchcompile1.PNG)
 
 
 When you click the drop-down arrow a list of batches saved to the project appears. You can click on a batch in the list to run it instantly.
 
 
-![batchcompile3.PNG](images/batchcompile3.PNG)
-
-On-click execution of saved batches
-
+![On-click execution of saved batches](batchcompile3.PNG)
 
 
 
 Click "Manage internal batches" to edit the list of batches saved to the project.
 
 
-![batchcompile4.PNG](images/batchcompile4.PNG)
-
-Manage internal batches
-
+![Manage internal batches](batchcompile4.PNG)
 
 
 
@@ -36,7 +27,4 @@ When you click "Batch Compile" icon with a lightning bolt "Batch Compile" dialog
 
 
 
-![batchcompile.PNG](images/batchcompile.PNG)
-
-Batch Compile
-
+![Batch Compile](batchcompile.PNG)

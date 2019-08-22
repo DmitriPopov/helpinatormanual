@@ -11,7 +11,4 @@ Step-by-step guides allow you to document procedures that users have to follow t
 Helpinator stores all guides in a place similar to Image Library.
 
 
-![manageguides.png](images/manageguides.png)
-
-Manage guides
-
+![Manage guides](manageguides.png)

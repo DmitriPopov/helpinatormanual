@@ -44,16 +44,10 @@ Compiled OracleHelp looks like this.
 Table of contents:
 
 
-![oraclehelp-contents.png](images/oraclehelp-contents.png)
-
-OracleHelp Table Of Contents
-
+![OracleHelp Table Of Contents](oraclehelp-contents.png)
 
 
 Topic view (undocked)
 
 
-![oraclehelp-topic.png](images/oraclehelp-topic.png)
-
-QtHelp Topic Display
-
+![QtHelp Topic Display](oraclehelp-topic.png)
